@@ -23,6 +23,7 @@
 # Project #
 ###########
 .idea/*
+.idea/**/workspace.xml
 dist/*
 
 # Logs and databases #
