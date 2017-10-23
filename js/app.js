@@ -3,4 +3,4 @@ import test from './script.js';
 
 
 //testing module function
-test('hej tjue');
+test('text');
